@@ -1,4 +1,4 @@
-<center>
+
 
 Hi 👋, I'm Rehan JAnwari.
 Nice to meet you!
@@ -20,4 +20,4 @@ Coding-MindSet
 RehanJawari/RehanJawari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</center>
+
