@@ -1,4 +1,4 @@
-https://github.com/Mohsi777999/Mohsi777999/blob/main/First%20Quarter%20Proposal.jpg
+<center>
 
 Hi 👋, I'm Rehan JAnwari.
 Nice to meet you!
@@ -20,3 +20,4 @@ Coding-MindSet
 RehanJawari/RehanJawari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</center>
