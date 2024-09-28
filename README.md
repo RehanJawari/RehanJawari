@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+https://github.com/Mohsi777999/Mohsi777999/blob/main/First%20Quarter%20Proposal.jpg
 
 Hi 👋, I'm Rehan JAnwari.
 Nice to meet you!
